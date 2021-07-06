@@ -10,7 +10,7 @@ import time
 import socket
 import subprocess
 
-arduino = serial.Serial(port='/dev/ttyACM1', baudrate=9600, timeout=.1)
+arduino = serial.Serial(port='/dev/ttyAMA0', baudrate=9600, timeout=.1)
 
 hostname = None
 ip = None
