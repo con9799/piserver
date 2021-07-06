@@ -1,3 +1,10 @@
+/***
+Author: Manuchehr Usmonov
+E-mail: con9799@mail.ru
+Telegram: @kibertexnik, @devcon, @iplosvoy
+https://github.com/con9799/piserver
+***/
+
 #include <SPI.h>
 #include <Wire.h>
 #include <EEPROM.h>
